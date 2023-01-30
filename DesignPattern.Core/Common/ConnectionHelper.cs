@@ -11,7 +11,7 @@ namespace DesignPattern.Core.Common
         public static string ConnectionString 
         { get 
             { 
-                return "Data Source=ANOOBREKHAN;Initial Catalog=CollegeDatabase;Integrated Security=True"; 
+                return "///"; 
             } 
         }
     }
